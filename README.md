@@ -1,7 +1,8 @@
 Daftar-Biodata-Siswa
 ==
-Daftar biodata siswa Dicoding Academy
+Daftar biodata Siswa Dicoding Academy
 --
-*pake simbol bintang dalam memirinkan teks awal dan akhir kaliman*
--membuat list dengan strip 1 disebelah awal kalimat
--ini sama juga
+*biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
